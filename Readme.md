@@ -1,5 +1,4 @@
 #Python Repository
-
 Python Repository
 
 It contains the python codes for practice as well as demonstration.
